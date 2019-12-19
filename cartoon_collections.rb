@@ -20,6 +20,6 @@ end
 def find_the_cheese(snacks)
   snacks.include?("cheddar")
   snacks.include?("gouda")
-  snacks.inlude?("camembert".)
+  snacks.include?("camembert".)
 end
 find_the_cheese(["crackers", "gouda", "thyme"])
